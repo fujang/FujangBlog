@@ -14,10 +14,9 @@ A beautiful &amp; simple blog system based on SSM.
 ![](https://github.com/fujang/FujangBlog/blob/master/else/photos/P1.png)
 ### 2. 登录界面
 ![](https://github.com/fujang/FujangBlog/blob/master/else/photos/P2.png)
-
 ### 3. 博客后台
 ![](https://github.com/fujang/FujangBlog/blob/master/else/photos/P3.png)
-![](https://github.com/fujang/FujangBlog/blob/master/else/photos/P3.png)
+
 ## 三、项目部署
 
 1. 克隆项目：分为三部分：``FujangBlog``文件(项目主体)、``uploads``文件(项目图片等资源)、``forest_blog.sql``文件(创建数据库且加载数据)。
