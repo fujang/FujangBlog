@@ -12,15 +12,10 @@ A beautiful &amp; simple blog system based on SSM.
 
 ### 1. 博客前端
 
-![](https://i0.hdslb.com/bfs/album/1e64c0994d50ac2cd39222eb8cdab42b6908133c.png)
-
 ### 2. 登录界面
-
-![](https://pic.imgdb.cn/item/60c01d60844ef46bb256c599.jpg)
 
 ### 3. 博客后台
 
-![](https://pic.imgdb.cn/item/60c01d29844ef46bb253d1a1.jpg)
 
 ## 三、项目部署
 
