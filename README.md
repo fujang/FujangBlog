@@ -1,12 +1,12 @@
 <!-- vscode-markdown-toc -->
-* 1. [一、项目信息](#)
-* 2. [二、预览图](#-1)
-	* 2.1. [1. 博客前端](#-1)
-	* 2.2. [2. 登录界面](#-1)
-	* 2.3. [3. 博客后台](#-1)
-* 3. [三、项目部署](#-1)
-* 4. [四、项目配置文件介绍](#-1)
-	* 4.1. [1、pom文件](#pom)
+* 1. [项目信息](#)
+* 2. [预览图](#-1)
+	* 2.1. [博客前端](#-1)
+	* 2.2. [登录界面](#-1)
+	* 2.3. [博客后台](#-1)
+* 3. [项目部署](#-1)
+* 4. [项目配置文件介绍](#-1)
+	* 4.1. [pom文件](#pom)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -15,7 +15,7 @@
 <!-- /vscode-markdown-toc -->
 # FujangBlog
 
-##  1. <a name=''></a>一、项目信息
+##  1. <a name=''></a>项目信息
 
 A beautiful &amp; simple blog system based on SSM.
 
@@ -23,16 +23,16 @@ A beautiful &amp; simple blog system based on SSM.
 
 + 主要涉及技术包括的包括Maven、Spring、SpringMVC、MyBatis、JSP、MySQL等。
 
-##  2. <a name='-1'></a>二、预览图
+##  2. <a name='-1'></a>预览图
 
-###  2.1. <a name='-1'></a>1. 博客前端
+###  2.1. <a name='-1'></a>博客前端
 ![](https://github.com/fujang/FujangBlog/blob/master/else/photos/P1.png)
-###  2.2. <a name='-1'></a>2. 登录界面
+###  2.2. <a name='-1'></a>登录界面
 ![](https://github.com/fujang/FujangBlog/blob/master/else/photos/P2.png)
-###  2.3. <a name='-1'></a>3. 博客后台
+###  2.3. <a name='-1'></a>博客后台
 ![](https://github.com/fujang/FujangBlog/blob/master/else/photos/P3.png)
 
-##  3. <a name='-1'></a>三、项目部署
+##  3. <a name='-1'></a>项目部署
 
 1. 克隆项目：分为三部分：``FujangBlog``文件(项目主体)、``uploads``文件(项目图片等资源)、``forest_blog.sql``文件(创建数据库且加载数据)。
 
@@ -46,7 +46,7 @@ A beautiful &amp; simple blog system based on SSM.
 
 6. 将``Application context``更改为``/``。
 
-##  4. <a name='-1'></a>四、项目配置文件介绍
+##  4. <a name='-1'></a>项目配置文件介绍
 
 + pom文件
 
@@ -62,7 +62,7 @@ A beautiful &amp; simple blog system based on SSM.
 
 + logback.xml文件
 
-###  4.1. <a name='pom'></a>1、pom文件
+###  4.1. <a name='pom'></a>pom文件
 
 lombok依赖，此依赖会帮助我们自动在字节码文件中生成带有``Data``注解的类的``Get/Set``等方法。
 
